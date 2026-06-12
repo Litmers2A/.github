@@ -2,7 +2,7 @@
 
 # LITMERS X KUSITMS
 
-**리트머스 X KUSITMS 33기 기업프로젝트 대상 🏆 리트머스2A팀(청팀)**
+**리트머스 X 큐시즘 33기 기업프로젝트 대상 🏆 리트머스2A팀(청팀)**
 
 <div>
   <img src="https://github.com/user-attachments/assets/c2cf94b8-a5b3-4e4e-9547-4dd6b1bcbc22" width="38%" />
