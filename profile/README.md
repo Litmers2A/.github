@@ -56,7 +56,7 @@
 ### 3. 해야할 일
 
 ![](https://github.com/user-attachments/assets/da658929-8f69-4293-b955-a082c5b24121)
-![](https://github.com/user-attachments/assets/ac718ea4-efea-4144-bd5f-4c2f1b580dce)
+![](https://github.com/user-attachments/assets/8e72b7ad-3fb4-4a57-8cd3-6bfa32f19765)
 
 ### 4. 회의
 
