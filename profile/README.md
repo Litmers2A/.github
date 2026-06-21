@@ -64,6 +64,11 @@
 ![](https://github.com/user-attachments/assets/2db113b6-eaf2-40fc-b3f8-25e8908cc665)
 ![](https://github.com/user-attachments/assets/b50751e4-04e3-471e-b2b6-c08d3f438184)
 
+
+### 5. 진행 현황
+![](https://github.com/user-attachments/assets/4781466d-5fce-43a5-912b-5aa0f0e3207b)
+![](https://github.com/user-attachments/assets/78321a32-4065-46f7-a464-8b5e44832737)
+
 ---
 
 ## 시스템 아키텍처
